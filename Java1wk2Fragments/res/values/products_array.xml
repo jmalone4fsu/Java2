@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="products_array">
+        <item>Garmin 1300T GPS</item>
+        <item>Samsung Laptop</item>
+        <item>Sony HDRCX210 Camcorder</item>
+        <item>Nixon Coolpix AW100</item>
+        <item>Westinghouse 46" HDTV</item>
+    </string-array>
+    
+    <string-array name="sku">
+        <item>9333027</item>
+        <item>6882588</item>
+        <item>4811263</item>
+        <item>3176102</item>
+        <item>5764341</item>
+    </string-array>
+    
+    <string-array name="desc">
+        <item>Preloaded base map coverage of lower 48 United States, Hawaii and Puerto Rico - 4.3" display - FM traffic receive</item>
+        <item>15.6" Laptop - 4GB Memory - 500GB Hard Drive - Black</item>
+        <item>8GB Flash memory - 25x Optical Zoom - SteadyShot image stabilization</item>
+        <item>Orange 16.0 Megapixel camera - 5x Optical/4x Digital Zoom</item>
+        <item>46" LED 1080p 120Hz HDTV - Energy Star Certified</item>
+    </string-array>
+    
+    <string-array name="price">
+        <item>$89.99</item>
+        <item>$369.99</item>
+        <item>$349.99</item>
+        <item>$199.99</item>
+        <item>$379.99</item>
+    </string-array>
+    <string-array name="urls">
+        <item><![CDATA[<a href="http://www.bestbuy.com/site/Garmin+-+n%FCvi+1300T+4.3%22+GPS+with+Lifetime+Traffic+Updates/9333027.p?id=1218086489033&skuId=9333027&cmp=RMX&ky=2ef3Hj185LDROE8gdYk2ZeYwVcTYgFbZH">See on Web</a>]]></item>
+        <item><![CDATA[<a href="http://www.bestbuy.com/site/Garmin+-+n%FCvi+1300T+4.3%22+GPS+with+Lifetime+Traffic+Updates/9333027.p?id=1218086489033&skuId=9333027&cmp=RMX&ky=2ef3Hj185LDROE8gdYk2ZeYwVcTYgFbZH">See on Web</a>]]></item>
+        <item><![CDATA[<a href="http://www.bestbuy.com/site/Garmin+-+n%FCvi+1300T+4.3%22+GPS+with+Lifetime+Traffic+Updates/9333027.p?id=1218086489033&skuId=9333027&cmp=RMX&ky=2ef3Hj185LDROE8gdYk2ZeYwVcTYgFbZH">See on Web</a>]]></item>
+        <item><![CDATA[<a href="http://www.bestbuy.com/site/Garmin+-+n%FCvi+1300T+4.3%22+GPS+with+Lifetime+Traffic+Updates/9333027.p?id=1218086489033&skuId=9333027&cmp=RMX&ky=2ef3Hj185LDROE8gdYk2ZeYwVcTYgFbZH">See on Web</a>]]></item>
+        <item><![CDATA[<a href="http://www.bestbuy.com/site/Garmin+-+n%FCvi+1300T+4.3%22+GPS+with+Lifetime+Traffic+Updates/9333027.p?id=1218086489033&skuId=9333027&cmp=RMX&ky=2ef3Hj185LDROE8gdYk2ZeYwVcTYgFbZH">See on Web</a>]]></item>
+    </string-array>
+</resources>
